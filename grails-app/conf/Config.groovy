@@ -89,3 +89,7 @@ log4j = {
            'org.hibernate',
            'net.sf.ehcache.hibernate'
 }
+
+// twitter-bootstrap plugin configuration
+// see also: https://github.com/groovydev/twitter-bootstrap-grails-plugin/blob/master/README.md
+grails.plugins.twitterbootstrap.fixtaglib = true
